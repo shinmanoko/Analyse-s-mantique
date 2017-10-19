@@ -1,1 +1,1 @@
-# Analyse-s-mantique
+# Analyse-sémantique
